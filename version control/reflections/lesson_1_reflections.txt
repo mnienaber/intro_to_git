@@ -14,7 +14,7 @@ rolling back to a previous version makes relieving pressure off triage instant.
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git,
 vs having versions automatically saved, like Google Docs does?
 
-it's better because then you don't end up with large number of small commits which are time consuming to navigate. and agin now its working
+it's better because then you don't end up with large number of small commits which are time consuming to navigate. and again now its working
 
 
 How can you use the commands git log and git diff to view the history of files?
