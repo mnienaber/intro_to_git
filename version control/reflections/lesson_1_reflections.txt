@@ -1,3 +1,5 @@
+This is another edit
+
 How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
 well, I didn't know this tool existed so I was very happy to find out about it.
