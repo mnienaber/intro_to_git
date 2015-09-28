@@ -24,3 +24,4 @@ i'll have more confidence knowing ill be able to roll back quickly and triage af
 
 Now that you have your workspace set up, what do you want to try using Git for?
 version control
+first vim commit
