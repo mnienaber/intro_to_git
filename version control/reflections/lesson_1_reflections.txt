@@ -1,0 +1,26 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+well, I didn't know this tool existed so I was very happy to find out about it.
+I think the output format will take a little getting use to but other than that, very useful.
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+rolling back to a previous version makes relieving pressure off triage instant.
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git,
+vs having versions automatically saved, like Google Docs does?
+
+it's better because then you don't end up with large number of small commits which are time consuming to navigate. and agin now its working
+
+
+How can you use the commands git log and git diff to view the history of files?
+use git log to view the history (newest change on top, oldest at the bottom). use git diff to view the difference git diff "old first, new last"
+
+How might using version control make you more confident to make changes that could break something?
+i'll have more confidence knowing ill be able to roll back quickly and triage after.
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+version control
